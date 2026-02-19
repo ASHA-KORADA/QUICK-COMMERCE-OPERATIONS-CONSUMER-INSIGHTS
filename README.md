@@ -116,13 +116,16 @@ Strategic expansion insights
 🖥️ Dashboard Features
 
 Page 1: Executive Summary – High-level KPIs, Revenue Trends, and Platform Performance.
-Screenshots:: https://github.com/ASHA-KORADA/QUICK-COMMERCE-OPERATIONS-CONSUMER-INSIGHTS/blob/main/1Executive%20Summary.png
+Screenshots :: https://github.com/ASHA-KORADA/QUICK-COMMERCE-OPERATIONS-CONSUMER-INSIGHTS/blob/main/1Executive%20Summary.png
 
 Page 2: Operational Efficiency – Last-mile logistics analysis and delivery bottleneck identification.
+Screenshots :: https://github.com/ASHA-KORADA/QUICK-COMMERCE-OPERATIONS-CONSUMER-INSIGHTS/blob/main/2Logistics%20%26%20Delivery.png
 
 Page 3: Consumer Insights – Analyzing customer spending habits and mapping ratings against sales to identify high-potential, under-tapped market opportunities.
+Screenshots :: https://github.com/ASHA-KORADA/QUICK-COMMERCE-OPERATIONS-CONSUMER-INSIGHTS/blob/main/3Consumer%20Insights.png
 
 Page 4: Strategic Recommendations – Data-driven insights for business stakeholders.
+Screenshots :: https://github.com/ASHA-KORADA/QUICK-COMMERCE-OPERATIONS-CONSUMER-INSIGHTS/blob/main/4Key%20Insights.png
 
 
 
